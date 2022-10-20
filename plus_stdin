@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FilecopyrightText:2022 Ryuichi Ueda
  import sys
  
  ans =0.0
