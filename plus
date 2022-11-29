@@ -2,7 +2,11 @@
 # SPDX-FilecopyrightText:2022 Ryuichi Ueda
 import sys
  
-ans =0.0
+ans = 0   #もともと0.0だったのを0に変更
 for line in sys.stdin:
-    ans += float(line)
+try: 
+ans += int(line)   #intは文字列を整数に（失敗すると例外発生）
+except:
+ans += float(line)
+                                               　 
 print(ans)
