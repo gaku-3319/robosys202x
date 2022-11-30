@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # SPDX-FilecopyrightText:2022 Ryuichi Ueda
+# SPDX-License-Identifier: BSD-3-Clause
+
 import sys
  
 ans = 0   #もともと0.0だったのを0に変更
