@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2022 Ryuichi Ueda 　　　　　
+# SPDX-License-Identifier: BSD-3-Clause  
 
  name: test #name: ワークフローの名前
  on: push #on: いつこのワークフローを走らせるか
