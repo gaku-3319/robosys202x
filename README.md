@@ -1,16 +1,15 @@
 # robosys202x
- * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
- * © 2022 Gakuto Seyama
 
 # < plusコマンド>
 ![test](https://github.com/gaku-3319/robosys202x/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足すコマンド
 ## 簡単な使い方
-* １． OSにplusのファイルをダウンロードする。 
-* ２．./plusと入力し、実行する。
-* ３．数値を入力することが出来るようになるので、入力しenter
-
+* ![実行例](./robosys.png)
+* 1.ファイルの入っているディレクトリに移動
+* 2.整数を出力する
+* 3.出力した整数をplusが受け取る
+* 4.実行。数字の足された値がターミナルに出力される。
 ## 必要なソフトウェア
 
 * Python
@@ -22,8 +21,7 @@
 
 ## ライセンス
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
-* © 2022 Gakuto Seyama
- * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
+ * このパッケージは，ryuichiueda/emcl由来のコード（© 2022 Ryuichi Ueda）を利用しています．
   * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
   * [ryuichiueda/my_lides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
   * © 2022 Ryuichi Ueda
