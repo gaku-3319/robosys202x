@@ -4,6 +4,13 @@
 ![test](https://github.com/gaku-3319/robosys202x/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足すコマンド
+
+## ダウンロード方法
+```
+* git cloneコマンドを使用してダウンロードする
+``` 
+* 1.ターミナルにて、自分がコピーしたいディレクトリに移動する
+* 2.git clone リポジトリURL ディレクトリ名という形でコマンドを実行する
 ## 簡単な使い方
 * ![実行例](./robosys.png)
 * 1.ファイルの入っているディレクトリに移動
